@@ -1,0 +1,8 @@
+#! /usr/bin/env zsh
+# Ubicacion del script /home/usuario/.local/bin/scripts
+# Scripts para solucionar error de EACCES
+#
+
+export TERM=xterm-256color
+ssh ivanse@172.21.1.17
+
